@@ -35,7 +35,7 @@ header {
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
-    background-image: url("/img/cover-image-adjusted.png");
+    background-image: url("cover-image-adjusted.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
